@@ -28,3 +28,17 @@
 13 - Large Sum
 
 14 - Longest Collatz Sequence
+
+15 - Lattice Paths
+
+16 - Power Digit Sums
+
+20 - Factorial Digit Sums
+
+34 - Digit Factorials
+
+42 - Coded Triangle Numbers
+
+57 - Square Root Convergents
+
+76 - Counting Summations
